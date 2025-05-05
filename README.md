@@ -21,6 +21,8 @@ Make sure you have Python installed.
 You can install all necessary libraries with:
 <pre> ```bash pip install numpy matplotlib scikit-learn ``` </pre
                                                               
+ 
+                                                             
 
 
 
